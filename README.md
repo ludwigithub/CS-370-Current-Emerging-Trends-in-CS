@@ -63,7 +63,7 @@ is not well designed, the pirate may not be able to win, in which case your trai
 result. The provided maze in this notebook ensures that there is a path to win and you can run this
 method to check.<br><br>
 <b>o	What do computer scientists do and why does it matter?</b><br>
-Computer scientists design, develop, and analyze the software and hardware used to solve problems in all kinds of business, industry, scientific, and social contexts. And because computers solve problems to serve and enrich people, there is a significant human component to computer science.<br><br>
+Computer and information research scientists, including artificial intelligence specialists, invent and design new approaches to computing technology and find innovative uses for existing technology. They study and solve complex problems in computing for business, medicine, science, and other fields.<br><br>
 <b>o	How do I approach a problem as a computer scientist?</b><br>
 Step 1 – Identify the problem that must be solved.<br> 
 Step 2 – Understand what the problem presents.<br>
@@ -74,7 +74,7 @@ Step 4 – Develop a method to achieve the solution.
 As a computer scientist working with AI I will be responsible for data responsibility and privacy, fairness, explainability, robustness, transparency, environmental sustainability, inclusion, moral agency, value alignment, accountability, trust, and technology misuse.
 <br><br>
 
-<h6><i>Michigan Technological University. (2023, November 2). What is computer science? https://www.mtu.edu/cs/what/#:~:text=Computer%20scientists%20design%2C%20develop%2C%20and,human%20component%20to%20computer%20science.</h6>
+<h6><i>How to become an AI and computer scientist - career girls - explore. Career Girls. (2023, September 25). https://www.careergirls.org/careers/computer-scientist/#:~:text=Computer%20and%20information%20research%20scientists,%2C%20science%2C%20and%20other%20fields. </h6>
 <h6>Computer Programming Problem Solving Process. (n.d.-a). https://germanna.edu/sites/default/files/2022-05/Computer Programming Problem Solving Process.pdf </h6>
 <h6>What is ai ethics?. IBM. (n.d.). https://www.ibm.com/topics/ai-ethics#:~:text=Examples%20of%20AI%20ethics%20issues,%2C%20trust%2C%20and%20technology%20misuse. </h6>
 
